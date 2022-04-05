@@ -1,0 +1,3 @@
+TOKEN = "5249035159:AAF0p3hd7rwHyxavbjKbVck7PXPmhjxAU9U"
+
+id = 1102758593
